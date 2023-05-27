@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, filedialog
+from tkinter import filedialog
 from tkinter.filedialog import askopenfile
 
 class Importer:
